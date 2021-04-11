@@ -1,0 +1,10 @@
+{
+    "name": "baongoc156/composertest",
+    "authors": [
+        {
+            "name": "webcms",
+            "email": "phbaongoc2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
